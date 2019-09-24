@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/603f2674db41400ab742c598608b93fd)](https://www.codacy.com/manual/arda_93_bjk/StokTakip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abaskirt/StokTakip&amp;utm_campaign=Badge_Grade)
 # Stok Takip Programı
 Missia Mobilya Stok Takip ve Analizi Projesi
 
